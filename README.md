@@ -7,6 +7,6 @@ pip install -r requirements.txt
 
 python LinkScraper.py 
 
-python DataScraper.py 
+python2 DataScraper.py 
 ```
 
